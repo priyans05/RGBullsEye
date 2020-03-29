@@ -8,3 +8,4 @@ List of addition made over what's given in the book are: -
 - Rounded corners on UI.
 - Gradient Button.
 - Change in Alert Controller.
+![Demo](https://github.com/priyans05/RGBullsEye/blob/Development/Demo.gif)
