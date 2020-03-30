@@ -14,6 +14,7 @@
 		92204AE92431270C001BBE37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92204AE82431270C001BBE37 /* Preview Assets.xcassets */; };
 		92204AEC2431270C001BBE37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92204AEA2431270C001BBE37 /* LaunchScreen.storyboard */; };
 		92204AF52431287C001BBE37 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 92204AF42431287C001BBE37 /* README.md */; };
+		92204AF724329122001BBE37 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92204AF624329122001BBE37 /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		92204AEB2431270C001BBE37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92204AED2431270C001BBE37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92204AF42431287C001BBE37 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		92204AF624329122001BBE37 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				92204ADF2431270A001BBE37 /* AppDelegate.swift */,
 				92204AE12431270A001BBE37 /* SceneDelegate.swift */,
 				92204AE32431270A001BBE37 /* ContentView.swift */,
+				92204AF624329122001BBE37 /* TimeCounter.swift */,
 				92204AE52431270C001BBE37 /* Assets.xcassets */,
 				92204AEA2431270C001BBE37 /* LaunchScreen.storyboard */,
 				92204AED2431270C001BBE37 /* Info.plist */,
@@ -153,6 +156,7 @@
 				92204AE02431270A001BBE37 /* AppDelegate.swift in Sources */,
 				92204AE22431270A001BBE37 /* SceneDelegate.swift in Sources */,
 				92204AE42431270A001BBE37 /* ContentView.swift in Sources */,
+				92204AF724329122001BBE37 /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
